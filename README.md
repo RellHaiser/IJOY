@@ -1,3 +1,5 @@
+# ATTENTION: Work continues within <https://github.com/RellHaiser/HD2_SabreSquadron>.
+
 # IJoy.dll source port
 
 Clean C++17 rewrite of `IJoy.dll` (Hidden & Dangerous 2, 2004, MSVC6 release build, 73,728 bytes):
